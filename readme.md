@@ -1,6 +1,6 @@
 # A/B Testing Analysis: Evaluating Landing Page Performance
 
-## 📌 Overview
+## Overview
 
 This project evaluates whether a new landing page (treatment) improves user conversion compared to the existing landing page (control). The analysis was conducted using Snowflake for data storage and SQL processing, and Python for statistical testing and visualisation.
 
